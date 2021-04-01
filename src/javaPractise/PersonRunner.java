@@ -10,6 +10,9 @@ public class PersonRunner {
 		emp.setPhone(9988);
 		
 		System.out.println(emp);
+		
+		System.out.println("this is tested as part of git");
+		System.out.println("testing....");
 
 	}
 
