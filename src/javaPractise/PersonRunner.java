@@ -13,6 +13,9 @@ public class PersonRunner {
 		
 		System.out.println("this is tested as part of git");
 		System.out.println("testing....");
+		
+		System.out.println("some more changes");
+		System.out.println("to grasp the concept of github");
 
 	}
 
